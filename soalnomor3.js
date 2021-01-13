@@ -2,7 +2,7 @@ let text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interd
 
 var textA = '';
 for (i = 0; i < text.length; i++) {
-    totalA += text[i];
+    textA += text[i];
 }
 
-console.log(totalA)
+console.log(textA)
