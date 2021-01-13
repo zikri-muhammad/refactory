@@ -1,0 +1,22 @@
+{
+  "name": "refactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soalnomor2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zikri-muhammad/refactory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zikri-muhammad/refactory/issues"
+  },
+  "homepage": "https://github.com/zikri-muhammad/refactory#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
